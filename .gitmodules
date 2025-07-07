@@ -1,0 +1,7 @@
+[submodule "frontend"]
+  path = hostel-management-system-frontend
+  url  = https://github.com/thisisdkyadav/hostel-management-system-frontend
+
+[submodule "backend"]
+  path = hostel-management-system-backend
+  url  = https://github.com/thisisdkyadav/hostel-management-system-backend
