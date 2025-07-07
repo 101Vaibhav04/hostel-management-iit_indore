@@ -1,7 +1,7 @@
 [submodule "frontend"]
-  path = hostel-management-system-frontend
-  url  = https://github.com/thisisdkyadav/hostel-management-system-frontend
+	path = frontend
+	url = https://github.com/thisisdkyadav/hostel-management-system-frontend.git
 
 [submodule "backend"]
-  path = hostel-management-system-backend
-  url  = https://github.com/thisisdkyadav/hostel-management-system-backend
+	path = backend
+	url = https://github.com/thisisdkyadav/hostel-management-system-backend.git
